@@ -1,0 +1,220 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "kyc";
+  src:url("fonts/kyc.eot");
+  src:url("fonts/kyc.eot?#iefix") format("embedded-opentype"),
+    url("fonts/kyc.woff") format("woff"),
+    url("fonts/kyc.ttf") format("truetype"),
+    url("fonts/kyc.svg#kyc") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "kyc" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "kyc" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-kyc-ok:before {
+  content: "A";
+}
+.icon-kyc-rerequest:before {
+  content: "S";
+}
+.icon-kyc-empty:before {
+  content: "D";
+}
+.icon-kyc-left:before {
+  content: "<";
+}
+.icon-kyc-decline:before {
+  content: "G";
+}
+.icon-kyc-fileok:before {
+  content: "H";
+}
+.icon-kyc-ignor:before {
+  content: "J";
+}
+.icon-kyc-pending:before {
+  content: "K";
+}
+.icon-kyc-right:before {
+  content: ">";
+}
+.icon-kyc-upload:before {
+  content: "u";
+}
+.icon-kyc-list:before {
+  content: "l";
+}
+.icon-kyc-top:before {
+  content: "t";
+}
+.icon-kyc-add:before {
+  content: "m";
+}
+.icon-kyc-bottom:before {
+  content: "v";
+}
+.icon-kyc-request-small:before {
+  content: "f";
+}
+.icon-kyc-ok-small:before {
+  content: "a";
+}
+.icon-kyc-empty-small:before {
+  content: "d";
+}
+.icon-kyc-request:before {
+  content: "F";
+}
+.icon-icons-du-different-sizes-expand-16:before {
+  content: "r";
+}
+.icon-kyc-rerequest-small:before {
+  content: "s";
+}
+.icon-kyc-upload-jumio:before {
+  content: "b";
+}
+.icon-kyc-jumio:before {
+  content: "c";
+}
+.icon-kyc-empty-small-1:before {
+  content: "e";
+}
+.icon-kyc-empty-1:before {
+  content: "E";
+}
+.icon-kyc-thumbnails:before {
+  content: "g";
+}
+.icon-eye:before {
+  content: "W";
+}
+.icon-neteller:before {
+  content: "k";
+}
+.icon-skrill:before {
+  content: "n";
+}
+.icon-true-utililty-bill:before {
+  content: "o";
+}
+.icon-utililty-bill-invert:before {
+  content: "p";
+}
+.icon-video-1:before {
+  content: "q";
+}
+.icon-visa-1:before {
+  content: "w";
+}
+.icon-document-upload-icons-2-id-back-invert:before {
+  content: "x";
+}
+.icon-document-upload-icons-2-visa-front-1:before {
+  content: "y";
+}
+.icon-fullscreen-white:before {
+  content: "z";
+}
+.icon-hand:before {
+  content: "B";
+}
+.icon-hide:before {
+  content: "C";
+}
+.icon-inverse-id-fe-2:before {
+  content: "I";
+}
+.icon-load:before {
+  content: "L";
+}
+.icon-original-size:before {
+  content: "M";
+}
+.icon-rotate:before {
+  content: "N";
+}
+.icon-tag:before {
+  content: "O";
+}
+.icon-vector-smart-object:before {
+  content: "P";
+}
+.icon-vector-smart-object-left:before {
+  content: "Q";
+}
+.icon-visa-back-inver:before {
+  content: "R";
+}
+.icon-driver-license:before {
+  content: "T";
+}
+.icon-passport:before {
+  content: "U";
+}
+.icon-document-upload-icons-2-id-back:before {
+  content: "8";
+}
+.icon-document-upload-icons-2-id-frront:before {
+  content: "&";
+}
+.icon-document-upload-icons-2-utililty-bill:before {
+  content: "'";
+}
+.icon-document-upload-icons-2-visa-back:before {
+  content: "(";
+}
+.icon-document-upload-icons-2-visa-front:before {
+  content: ")";
+}
+.icon-profile:before {
+  content: "i";
+}
+.icon-raccon-secop:before {
+  content: "Y";
+}
+.icon-raccoonkyc:before {
+  content: "V";
+}
+.icon-rotate-bottom:before {
+  content: "X";
+}
+.icon-rotate-left:before {
+  content: "Z";
+}
+.icon-rotate-right:before {
+  content: "0";
+}
+.icon-entropay:before {
+  content: "h";
+}
+.icon-mastercard:before {
+  content: "j";
+}
